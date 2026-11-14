@@ -69,7 +69,7 @@ export const HomePage: React.FC<HomePageProps> = ({ setActiveTab }) => {
               {/* Exact Copywriting Stack */}
               <div className="space-y-4">
                 <h1 className="text-4xl sm:text-5xl lg:text-6xl font-serif font-bold text-[#6D0808] tracking-tight leading-[1.12]">
-                  Your next favorite cookie.
+                  For the ones who love soft moments.
                 </h1>
 
                 <p className="text-sm sm:text-base text-[#6d0808]/90 leading-relaxed font-sans max-w-xl">
